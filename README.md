@@ -13,3 +13,4 @@
 4. Questions/Accordion
 5. Menu Navbar
 6. Tabs
+7. Slider
